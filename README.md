@@ -1,8 +1,10 @@
 # Laboratorio: conectar MongoDB y listar personas
 
-Estudiantes: ______________________________
+Estudiantes: Natalia Càrdenas Vàsquez
+Maria Camila Fernandez Patiño
+Darien Jose Arrieta Sanchez
 
-Fecha: ______________________________
+Fecha: 12/11/26
 
 Vas a completar una aplicación de Node.js que se conecta a MongoDB Atlas y muestra las personas en una tabla HTML. El proyecto ya tiene la estructura, los estilos y el motor de plantillas EJS. Tu trabajo es escribir el código marcado con `TODO`.
 
